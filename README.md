@@ -152,7 +152,7 @@ The deployment shape is described in the private repository's `render.yaml` blue
 
 Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
-- GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
 - Private production source: [ulasmango-cmd/vela-career](https://github.com/ulasmango-cmd/vela-career) (private)
 
 ## License
