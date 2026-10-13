@@ -1,3 +1,5 @@
+**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+
 # Vela
 
 > An AI-assisted career platform for building resumes, matching jobs, tracking applications, and preparing for interviews.
@@ -148,7 +150,7 @@ The deployment shape is described in the private repository's `render.yaml` blue
 
 ## Ownership
 
-Built by **[@ulasmango-cmd](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
 - GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
 - Private production source: [ulasmango-cmd/vela-career](https://github.com/ulasmango-cmd/vela-career) (private)
