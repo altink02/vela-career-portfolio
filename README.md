@@ -1,4 +1,4 @@
-**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+**Altin Kalludra** · [All projects](https://github.com/altink02/fxquant-portfolio/blob/main/PORTFOLIO.md) · [Download CV (PDF)](https://github.com/altink02/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
 
 # Vela
 
@@ -150,10 +150,10 @@ The deployment shape is described in the private repository's `render.yaml` blue
 
 ## Ownership
 
-Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/altink02)**.
 
-- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
-- Private production source: [ulasmango-cmd/vela-career](https://github.com/ulasmango-cmd/vela-career) (private)
+- GitHub profile: [Altin Kalludra](https://github.com/altink02)
+- Private production source: [altink02/vela-career](https://github.com/altink02/vela-career) (private)
 
 ## License
 
